@@ -25,7 +25,7 @@ DEBUG = True
 SECRET_KEY = 'django-insecure-=xu6wewjurnn)qd5!bqazhn9&uts8(3nvdf!r3sq2mfz#678u_'
 
 
-ALLOWED_HOSTS = ['https://staicy-doctor-apointment-system.onrender.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['*']
 
 
 CSRF_TRUSTED_ORIGINS = ['https://staicy-doctor-apointment-system.onrender.com']
